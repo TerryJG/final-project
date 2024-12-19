@@ -1,0 +1,26 @@
+/* || SCROLLBAR ||
+Styling for Scrollbar
+*/
+/* Scrollbar Pill/Handle (Size only) */
+#body::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+}
+
+/* Scrollbar Background */
+#body::-webkit-scrollbar-track {
+    border-radius: 10px;
+    background: rgba(0, 0, 0, 0.1);
+}
+
+/* Scrollbar Pill/Handle  */
+#body::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    background: rgba(0, 0, 0, 0.3);
+}
+#body::-webkit-scrollbar-thumb:hover { /* On Hover */
+    background: rgba(0, 0, 0, 0.4);
+}
+#body::-webkit-scrollbar-thumb:active {
+    background: rgba(0, 0, 0, .9);
+}

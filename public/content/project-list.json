@@ -1,0 +1,1102 @@
+{
+  "videos": [
+    {
+      "video-item": {
+        "data-fancybox": "video-gallery",
+        "data-type": "video",
+
+        "data-tag": "behold-the-lamb",
+        "data-date": "2023-12-23",
+        "data-featured": "main",
+        "data-caption": "<h4>Behold, The Lamb</h4><p>Official video promo for 'Behold, The Lamb', a special production held at Centreville SDA Church, Nassau, Bahamas</p>",
+        "href": "https://youtu.be/LhrvW305fgY",
+
+        "classType": "big",
+        "thumbnailImage": "./public/content/behold-the-lamb/behold-the-lamb-promo.gif",
+        "thumbnailImageAlt": "Behold, The Lamb Promo" ,
+        "hoverPreview": "./public/content/behold-the-lamb/video/final-render-behold-the-lamb-video-promo-v3_vp8.webm"
+      }
+    },
+    {
+      "video-item": {
+        "data-fancybox": "video-gallery",
+        "data-type": "video",
+
+        "data-tag": "behold-the-lamb",
+        "data-date": "2023-12-23",
+        "data-featured": "main",
+        "data-caption": "<h4>Jesus Calms the Seas Illustration</h4><p>Complimentary assets for Behold, The Lamb</p>",
+        "href": "https://youtu.be/478epzZS4vg",
+
+        "classType": "",
+        "thumbnailImage": "./public/content/behold-the-lamb/jesus-calms-the-seas.gif",
+        "thumbnailImageAlt": "Jesus Calms the Seas" ,
+        "hoverPreview": "./public/content/behold-the-lamb/video/jesus-calms-the-storm-animation-video_vp8.webm"
+      }
+    },
+    {
+      "video-item": {
+        "data-fancybox": "video-gallery",
+        "data-type": "video",
+
+        "data-tag": "behold-the-lamb",
+        "data-date": "2023-12-23",
+        "data-featured": "main",
+        "data-caption": "<h4>Moses and the Burning Bush Illustration</h4><p>Complimentary assets for Behold, The Lamb</p>",
+        "href": "https://youtu.be/YOSgjhF0-O4",
+        
+        "classType": "",
+        "thumbnailImage": "./public/content/behold-the-lamb/moses-and-the-burning-bush.gif",
+        "thumbnailImageAlt": "Moses and the Burning Bush" ,
+        "hoverPreview": "./public/content/behold-the-lamb/video/moses-and-the-burning-bush_vp8.webm"
+      }
+    },
+    {
+      "video-item": {
+        "data-fancybox": "video-gallery",
+        "data-type": "video",
+
+        "data-tag": "behold-the-lamb",
+        "data-caption": "<h4>2nd Coming Illustration</h4><p>Complimentary assets for Behold, The Lamb</p>",
+        "data-date": "2023-12-23",
+        "data-featured": "sub",
+        "href": "https://youtu.be/7K7-XCWzeOc",
+
+        "classType": "",
+        "thumbnailImage": "./public/content/behold-the-lamb/2nd-coming.gif",
+        "thumbnailImageAlt": "The 2nd Coming" ,
+        "hoverPreview": "./public/content/behold-the-lamb/video/2nd-coming-animation-video_vp8.webm"
+      }
+    },
+    {
+      "video-item": {
+        "data-fancybox": "video-gallery",
+        "data-type": "video",
+
+        "data-tag": "behold-the-lamb",
+        "data-caption": "<h4>Jesus's Baptism Illustration</h4><p>Complimentary assets for Behold, The Lamb</p>",
+        "data-date": "2023-12-23",
+        "data-featured": "main",
+        "href": "https://youtu.be/7h4kQeByQ94",
+
+        "classType": "",
+        "thumbnailImage": "./public/content/behold-the-lamb/jesus-baptism.gif",
+        "thumbnailImageAlt": "Jesus's Baptism" ,
+        "hoverPreview": "./public/content/behold-the-lamb/video/jesus-baptism-photo-animation-video_vp8.webm"
+      }
+    },
+    {
+      "video-item": {
+        "data-fancybox": "video-gallery",
+        "data-type": "video",
+
+        "data-tag": "behold-the-lamb",
+        "data-caption": "<h4>Jesus's Crucifixion Illustration</h4><p>Complimentary assets for Behold, The Lamb</p>",
+        "data-date": "2023-12-23",
+        "data-featured": "sub",
+        "href": "https://youtu.be/C7yfMQXrQ2A",
+
+        "classType": "",
+        "thumbnailImage": "./public/content/behold-the-lamb/jesus-crucifixion.gif",
+        "thumbnailImageAlt": "Jesus's Crucifixion" ,
+        "hoverPreview": "./public/content/behold-the-lamb/video/jesus-crucifixion-animation-video_vp8.webm"
+      }
+    },
+    {
+      "video-item": {
+        "data-fancybox": "video-gallery",
+        "data-type": "video",
+
+        "data-tag": "behold-the-lamb",
+        "data-caption": "<h4> Old Temple in Jerusalem Illustration</h4><p>Complimentary assets for Behold, The Lamb</p>",
+        "data-date": "2023-12-23",
+        "data-featured": "sub",
+        "href": "https://youtu.be/Yvy5IXB32Wc",
+
+        "classType": "",
+        "thumbnailImage": "./public/content/behold-the-lamb/old-temple.gif",
+        "thumbnailImageAlt": "Old Temple in Jerusalem" ,
+        "hoverPreview": "./public/content/behold-the-lamb/video/temple-in-jerusalem-animation-video_vp8.webm"
+      }
+    },
+    {
+      "video-item": {
+        "data-fancybox": "video-gallery",
+        "data-type": "video",
+
+        "data-tag": "behold-the-lamb",
+        "data-caption": "<h4> Adam and Eve Illustration</h4><p>Complimentary assets for Behold, The Lamb</p>",
+        "data-date": "2023-12-23",
+        "data-featured": "main",
+        "href": "https://youtu.be/Yvy5IXB32Wc",
+
+        "classType": "",
+        "thumbnailImage": "./public/content/behold-the-lamb/adam-and-eve.gif",
+        "thumbnailImageAlt": "Adam and Eve" ,
+        "hoverPreview": "./public/content/behold-the-lamb/video/adam-and-eve-animation-video_vp8.webm"
+      }
+    },
+
+
+
+    {
+      "video-item": {
+        "data-fancybox": "video-gallery",
+        "data-type": "video",
+
+        "data-tag": "sounds-of-africa",
+        "data-caption": "<h4>Choir Interview</h4><p>Sounds of Africa: We've Come This Far</p>",
+        "data-date": "2023-07-15",
+        "data-featured": "main",
+        "href": "https://www.youtube.com/watch?v=_jUtAJL7zLo",
+
+        "classType": "big",
+        "thumbnailImage": "./public/content/sounds-of-africa/meet-the-choir.gif",
+        "thumbnailImageAlt": "Sounds of Africa: Meet the Choir" ,
+        "hoverPreview": "./public/content/sounds-of-africa/video/sounds-of africa wctf full choir interview_vp8.webm"
+      }
+    },
+    {
+      "video-item": {
+        "data-fancybox": "video-gallery",
+        "data-type": "video",
+
+        "data-tag": "sounds-of-africa",
+        "data-caption": "<h4>Animated Logo Loop</h4><p>Animated logo loop for Sounds of Africa: We've Come This Far</p>",
+        "data-date": "2023-07-15",
+        "data-featured": "main",
+        "href": "https://youtu.be/OmaoPSLSNoM",
+
+        "classType": "",
+        "thumbnailImage": "./public/content/sounds-of-africa/animated-logo-loop.gif",
+        "thumbnailImageAlt": "Sounds of Africa Animated Loop" ,
+        "hoverPreview": "./public/content/sounds-of-africa/video/logo-loop with intro_vp8.webm"
+      }
+    },
+
+
+
+    {
+      "video-item": {
+        "data-fancybox": "video-gallery",
+        "data-type": "video",
+
+        "data-tag": "challenge-centric",
+        "data-caption": "<h4>MTV: The Challenge Interview w/ Horacio Gutiérrez Jr.</h4><p>Video Interview edited for ChallengeCentric</p>",
+        "data-date": "2023-02-25",
+        "data-featured": "sub",
+        "href": "https://youtu.be/u0SRcMPKhKM",
+
+        "classType": "big",
+        "thumbnailImage": "./public/content/challenge-centric/horatio-interview.gif",
+        "thumbnailImageAlt": "ChallengeCentric: Horatio Interview",
+        "hoverPreview": "./public/content/challenge-centric/video/mtv's-the-challenge_-horacio-gutiérrez-jr.-interview-challengecentric_vp8.webm"
+      }
+    },
+    {
+      "video-item": {
+        "data-fancybox": "video-gallery",
+        "data-type": "video",
+
+        "data-tag": "challenge-centric",
+        "data-caption": "<h4>MTV: The Challenge Interview w/ Olivia Kaiser</h4><p>Video Interview edited for ChallengeCentric</p>",
+        "data-date": "2023-02-12",
+        "data-featured": "sub",
+        "href": "https://youtu.be/6FFY0oOFVBA",
+
+        "classType": "",
+        "thumbnailImage": "./public/content/challenge-centric/olivia-interview.gif",
+        "thumbnailImageAlt": "ChallengeCentric: Olivia Interview",
+        "hoverPreview": "./public/content/challenge-centric/video/mtv's-the-challenge-olivia-kaiser-interview-challengecentric_vp8.webm"
+      }
+    },
+    {
+      "video-item": {
+        "data-fancybox": "video-gallery",
+        "data-type": "video",
+
+        "data-tag": "challenge-centric",
+        "data-caption": "<h4>MTV: The Challenge Interview w/ Nia Moore</h4><p>Video Interview edited for ChallengeCentric</p>",
+        "data-date": "2022-07-13",
+        "data-featured": "sub",
+        "href": "https://youtu.be/5hhDUHRa2Pw",
+
+        "classType": "",
+        "thumbnailImage": "./public/content/challenge-centric/nia-interview.gif",
+        "thumbnailImageAlt": "ChallengeCentric: Nia Interview",
+        "hoverPreview": "./public/content/challenge-centric/video/mtv's-the-challenge-nia-moore-interview-challengecentric_vp8.webm"
+      }
+    },
+    {
+      "video-item": {
+        "data-fancybox": "video-gallery",
+        "data-type": "video",
+
+        "data-tag": "challenge-centric",
+        "data-caption": "<h4>MTV: The Challenge Interview w/ Paulie Calafiore</h4><p>Video Interview edited for ChallengeCentric</p>",
+        "data-date": "2022-06-29",
+        "data-featured": "sub",
+        "href": "https://youtu.be/veFvQmyCmDo",
+
+        "classType": "",
+        "thumbnailImage": "./public/content/challenge-centric/paulie-interview.gif",
+        "thumbnailImageAlt": "ChallengeCentric: Paulie Interview",
+        "hoverPreview": "./public/content/challenge-centric/video/mtv's-the-challenge-paulie-calafiore-interview-challengecentric_vp8.webm"
+      }
+    },
+    {
+      "video-item": {
+        "data-fancybox": "video-gallery",
+        "data-type": "video",
+
+        "data-tag": "challenge-centric",
+        "data-caption": "<h4>MTV: The Challenge Interview w/ Teck Holmes</h4><p>Video Interview edited for ChallengeCentric</p>",
+        "data-date": "2022-06-22",
+        "data-featured": "sub",
+        "href": "https://youtu.be/g-AO9D-thOw",
+
+        "classType": "",
+        "thumbnailImage": "./public/content/challenge-centric/teck-interview.gif",
+        "thumbnailImageAlt": "ChallengeCentric: Teck Interview",
+        "hoverPreview": "./public/content/challenge-centric/video/mtv's-the-challenge-teck-holmes-interview-challengecentric_vp8.webm"
+      }
+    },
+    {
+      "video-item": {
+        "data-fancybox": "video-gallery",
+        "data-type": "video",
+
+        "data-tag": "challenge-centric",
+        "data-caption": "<h4>MTV: The Challenge Interview w/ Laterrian Wallace</h4><p>Video Interview edited for ChallengeCentric</p>",
+        "data-date": "2022-03-27",
+        "data-featured": "sub",
+        "href": "https://youtu.be/F166_4NvT9s",
+
+        "classType": "",
+        "thumbnailImage": "./public/content/challenge-centric/laterrian-interview.gif",
+        "thumbnailImageAlt": "ChallengeCentric: Laterrian Interview",
+        "hoverPreview": "./public/content/challenge-centric/video/mtv's-the-challenge-laterrian-wallace-interview-challengecentric_vp8.webm"
+      }
+    },
+    {
+      "video-item": {
+        "data-fancybox": "video-gallery",
+        "data-type": "video",
+        
+        "data-tag": "challenge-centric",
+        "data-caption": "<h4>MTV: The Challenge Interview w/ Ayanna (Mackins) Free</h4><p>Video Interview edited for ChallengeCentric</p>",
+        "data-date": "2022-02-04",
+        "data-featured": "sub",
+        "href": "https://youtu.be/SyBgcFM9ebc",
+
+        "classType": "",
+        "thumbnailImage": "./public/content/challenge-centric/ayanna-interview.gif",
+        "thumbnailImageAlt": "ChallengeCentric: Ayanna Interview",
+        "hoverPreview": "./public/content/challenge-centric/video/mtv's-the-challenge-ayanna-(mackins)-free-interview-challengecentric_vp8.webm"
+      }
+    },
+    {
+      "video-item": {
+        "data-fancybox": "video-gallery",
+        "data-type": "video",
+
+        "data-tag": "challenge-centric",
+        "data-caption": "<h4>MTV's The Challenge: Battle of the Zodiac - Fantasy Season & Cast</h4><p>Video Interview edited for ChallengeCentric</p>",
+        "data-date": "2022-01-13",
+        "data-featured": "sub",
+        "href": "https://youtu.be/eWuaxBkP_MU",
+
+        "classType": "big",
+        "thumbnailImage": "./public/content/challenge-centric/battle-of-zodiac.gif",
+        "thumbnailImageAlt": "ChallengeCentric: Battle of the Zodiac Interview",
+        "hoverPreview": "./public/content/challenge-centric/video/mtv's-the-challenge-battle-of-the-zodiac-fantasy-season-&-cast_vp8.webm"
+      }
+    },
+        {
+          "video-item": {
+            "data-fancybox": "video-gallery",
+            "data-type": "video",
+
+            "data-tag": "challenge-centric",
+            "data-caption": "<h4>Team Aquarius</h4><p>Motion graphics for <b>MTV's The Challenge: Battle of the Zodiac - Fantasy Season & Cast</b></p>",
+            "data-date": "2022-01-13",
+            "data-featured": "sub",
+            "href": "https://youtu.be/SZmK3ynWR_c",
+
+            "classType": "",
+            "thumbnailImage": "./public/content/challenge-centric/team-aquarius.jpg",
+            "thumbnailImageAlt": "ChallengeCentric: BotZ: Team Aquarius",
+            "hoverPreview": "./public/content/challenge-centric/video/team-aquarius_vp8.webm"
+          }
+        },
+        {
+          "video-item": {
+            "data-fancybox": "video-gallery",
+            "data-type": "video",
+
+            "data-tag": "challenge-centric",
+            "data-caption": "<h4>Team Aries</h4><p>Motion graphics for <b>MTV's The Challenge: Battle of the Zodiac - Fantasy Season & Cast</b></p>",
+            "data-date": "2022-01-13",
+            "data-featured": "sub",
+            "href": "https://youtu.be/UmICftNh-2M",
+
+            "classType": "",
+            "thumbnailImage": "./public/content/challenge-centric/team-aries.jpg",
+            "thumbnailImageAlt": "ChallengeCentric: BotZ: Team Aries",
+            "hoverPreview": "./public/content/challenge-centric/video/team-aries_vp8.webm"
+          }
+        },
+        {
+          "video-item": {
+            "data-fancybox": "video-gallery",
+            "data-type": "video",
+
+            "data-tag": "challenge-centric",
+            "data-caption": "<h4>Team Cancer</h4><p>Motion graphics for <b>MTV's The Challenge: Battle of the Zodiac - Fantasy Season & Cast</b></p>",
+            "data-date": "2022-01-13",
+            "data-featured": "sub",
+            "href": "https://youtu.be/XoAKSSB1I20",
+
+            "classType": "",
+            "thumbnailImage": "./public/content/challenge-centric/team-cancer.jpg",
+            "thumbnailImageAlt": "ChallengeCentric: BotZ: Team Cancer",
+            "hoverPreview": "./public/content/challenge-centric/video/team-cancer_vp8.webm"
+          }
+        },
+        {
+          "video-item": {
+            "data-fancybox": "video-gallery",
+            "data-type": "video",
+
+            "data-tag": "challenge-centric",
+            "data-caption": "<h4>Team Capricorn</h4><p>Motion graphics for <b>MTV's The Challenge: Battle of the Zodiac - Fantasy Season & Cast</b></p>",
+            "data-date": "2022-01-13",
+            "data-featured": "sub",
+            "href": "https://youtu.be/jDZN_0Q3bZE",
+
+            "classType": "",
+            "thumbnailImage": "./public/content/challenge-centric/team-capricorn.jpg",
+            "thumbnailImageAlt": "ChallengeCentric: BotZ: Team Capricorn",
+            "hoverPreview": "./public/content/challenge-centric/video/team-capricorn_vp8.webm"
+          }
+        },
+        {
+          "video-item": {
+            "data-fancybox": "video-gallery",
+            "data-type": "video",
+
+            "data-tag": "challenge-centric",
+            "data-caption": "<h4>Team Gemini</h4><p>Motion graphics for <b>MTV's The Challenge: Battle of the Zodiac - Fantasy Season & Cast</b></p>",
+            "data-date": "2022-01-13",
+            "data-featured": "sub",
+            "href": "https://youtu.be/SCKon_7hL-Q",
+
+            "classType": "",
+            "thumbnailImage": "./public/content/challenge-centric/team-gemini.jpg",
+            "thumbnailImageAlt": "ChallengeCentric: BotZ: Team Gemini",
+            "hoverPreview": "./public/content/challenge-centric/video/team-gemini_vp8.webm"
+          }
+        },
+        {
+          "video-item": {
+            "data-fancybox": "video-gallery",
+            "data-type": "video",
+
+            "data-tag": "challenge-centric",
+            "data-caption": "<h4>Team Leo</h4><p>Motion graphics for <b>MTV's The Challenge: Battle of the Zodiac - Fantasy Season & Cast</b></p>",
+            "data-date": "2022-01-13",
+            "data-featured": "sub",
+            "href": "https://youtu.be/TcmXVkm7ZGI",
+
+            "classType": "",
+            "thumbnailImage": "./public/content/challenge-centric/team-leo.jpg",
+            "thumbnailImageAlt": "ChallengeCentric: BotZ: Team Leo",
+            "hoverPreview": "./public/content/challenge-centric/video/team-leo_vp8.webm"
+          }
+        },
+        {
+          "video-item": {
+            "data-fancybox": "video-gallery",
+            "data-type": "video",
+
+            "data-tag": "challenge-centric",
+            "data-caption": "<h4>Team Libra</h4><p>Motion graphics for <b>MTV's The Challenge: Battle of the Zodiac - Fantasy Season & Cast</b></p>",
+            "data-date": "2022-01-13",
+            "data-featured": "sub",
+            "href": "https://youtu.be/Zi42GOQu54g",
+
+            "classType": "",
+            "thumbnailImage": "./public/content/challenge-centric/team-libra.jpg",
+            "thumbnailImageAlt": "ChallengeCentric: BotZ: Team Libra",
+            "hoverPreview": "./public/content/challenge-centric/video/team-libra_vp8.webm"
+          }
+        },
+        {
+          "video-item": {
+            "data-fancybox": "video-gallery",
+            "data-type": "video",
+
+            "data-tag": "challenge-centric",
+            "data-caption": "<h4>Team Pisces</h4><p>Motion graphics for <b>MTV's The Challenge: Battle of the Zodiac - Fantasy Season & Cast</b></p>",
+            "data-date": "2022-01-13",
+            "data-featured": "sub",
+            "href": "https://youtu.be/xCffzcm_dW0",
+
+            "classType": "",
+            "thumbnailImage": "./public/content/challenge-centric/team-pisces.jpg",
+            "thumbnailImageAlt": "ChallengeCentric: BotZ: Team Pisces",
+            "hoverPreview": "./public/content/challenge-centric/video/team-pisces_vp8.webm"
+          }
+        },
+        {
+          "video-item": {
+            "data-fancybox": "video-gallery",
+            "data-type": "video",
+
+            "data-tag": "challenge-centric",
+            "data-caption": "<h4>Team Sagittarius</h4><p>Motion graphics for <b>MTV's The Challenge: Battle of the Zodiac - Fantasy Season & Cast</b></p>",
+            "data-date": "2022-01-13",
+            "data-featured": "sub",
+            "href": "https://youtu.be/Q0enwWntVH4",
+
+            "classType": "",
+            "thumbnailImage": "./public/content/challenge-centric/team-sagittarius.jpg",
+            "thumbnailImageAlt": "ChallengeCentric: BotZ: Team Sagittarius",
+            "hoverPreview": "./public/content/challenge-centric/video/team-sagittarius_vp8.webm"
+          }
+        },
+        {
+          "video-item": {
+            "data-fancybox": "video-gallery",
+            "data-type": "video",
+
+            "data-tag": "challenge-centric",
+            "data-caption": "<h4>Team Scorpio</h4><p>Motion graphics for <b>MTV's The Challenge: Battle of the Zodiac - Fantasy Season & Cast</b></p>",
+            "data-date": "2022-01-13",
+            "data-featured": "sub",
+            "href": "",
+
+            "classType": "",
+            "thumbnailImage": "./public/content/challenge-centric/team-scorpio.jpg",
+            "thumbnailImageAlt": "ChallengeCentric: BotZ: Team Scorpio",
+            "hoverPreview": "./public/content/challenge-centric/video/team-scorpio_vp8.webm"
+          }
+        },
+        {
+          "video-item": {
+            "data-fancybox": "video-gallery",
+            "data-type": "video",
+
+            "data-tag": "challenge-centric",
+            "data-caption": "<h4>Team Taurus</h4><p>Motion graphics for <b>MTV's The Challenge: Battle of the Zodiac - Fantasy Season & Cast</b></p>",
+            "data-date": "2022-01-13",
+            "data-featured": "sub",
+            "href": "",
+
+            "classType": "",
+            "thumbnailImage": "./public/content/challenge-centric/team-taurus.jpg",
+            "thumbnailImageAlt": "ChallengeCentric: BotZ: Team Taurus",
+            "hoverPreview": "./public/content/challenge-centric/video/team-taurus_vp8.webm"
+          }
+        },
+        {
+          "video-item": {
+            "data-fancybox": "video-gallery",
+            "data-type": "video",
+
+            "data-tag": "challenge-centric",
+            "data-caption": "<h4>Team Virgo</h4><p>Motion graphics for <b>MTV's The Challenge: Battle of the Zodiac - Fantasy Season & Cast</b></p>",
+            "data-date": "2022-01-13",
+            "data-featured": "sub",
+            "href": "",
+
+            "classType": "",
+            "thumbnailImage": "./public/content/challenge-centric/team-virgo.jpg",
+            "thumbnailImageAlt": "ChallengeCentric: BotZ: Team Virgo",
+            "hoverPreview": "./public/content/challenge-centric/video/team-virgo_vp8.webm"
+          }
+        },
+    {
+      "video-item": {
+        "data-fancybox": "video-gallery",
+        "data-type": "video",
+
+        "data-tag": "challenge-centric",
+        "data-caption": "<h4>MTV: The Challenge Interview w/ Brandon Nelson</h4><p>Video Interview edited for ChallengeCentric</p>",
+        "data-date": "2021-12-25",
+        "data-featured": "sub",
+        "href": "https://youtu.be/-21NWQnOSac",
+        
+        "classType": "",
+        "thumbnailImage": "./public/content/challenge-centric/brandon-interview.gif",
+        "thumbnailImageAlt": "ChallengeCentric: Brandon Interview",
+        "hoverPreview": "./public/content/challenge-centric/video/mtv's-the-challenge-brandon-nelson-interview-challengecentric_vp8.webm"
+      }
+    },
+    {
+      "video-item": {
+        "data-fancybox": "video-gallery",
+        "data-type": "video",
+
+        "data-tag": "challenge-centric",
+        "data-caption": "<h4>The Challenge: Season 36 Review</h4><p>Video Interview edited for ChallengeCentric</p>",
+        "data-date": "2021-05-12",
+        "data-featured": "sub",
+        "href": "https://youtu.be/MhusuTWDWpE",
+
+        "classType": "",
+        "thumbnailImage": "./public/content/challenge-centric/cc-season-36.gif",
+        "thumbnailImageAlt": "ChallengeCentric: Season 36 Review",
+        "hoverPreview": "./public/content/challenge-centric/video/the-challenge-season-36-review-(ft.-challengexpress,-rookierevolution-&-toomuchchallenge)_vp8.webm"
+      }
+    },
+    {
+      "video-item": {
+        "data-fancybox": "video-gallery",
+        "data-type": "video",
+
+        "data-tag": "challenge-centric",
+        "data-caption": "<h4>Channel Teaser | ChallengeCentric</h4><p>Video Interview edited for ChallengeCentric</p>",
+        "data-date": "2020-12-20",
+        "data-featured": "sub",
+        "href": "https://youtu.be/4v4o469AJY0",
+
+        "classType": "",
+        "thumbnailImage": "./public/content/challenge-centric/cc-channel-trailer.gif",
+        "thumbnailImageAlt": "ChallengeCentric: Channel Trailer",
+        "hoverPreview": "./public/content/challenge-centric/video/channel-teaser-challengecentric_vp8.webm"
+      }
+    },
+
+
+
+    {
+      "video-item": {
+        "data-fancybox": "video-gallery",
+        "data-type": "video",
+
+        "data-tag": "toastmasters",
+        "data-caption": "<h4>Light Tales, Luminaries to the World</h4><p>Promotional Video for Luminaries Toastmasters's open house.</p>",
+        "data-date": "2020-12-20",
+        "data-featured": "main",
+        "href": "https://youtu.be/fwhLNXqNTeU",
+
+        "classType": "",
+        "thumbnailImage": "./public/content/toastmasters/open-house-meeting-widescreen.jpg",
+        "thumbnailImageAlt": "Toastmasters Open House Meeting",
+        "hoverPreview": "./public/content/toastmasters/video/open-house-meeting-widescreen_VP8.webm"
+      }
+    }
+  ],
+
+
+
+
+
+
+
+  "images": [
+    {
+      "image-item": {
+        "data-fancybox": "image-gallery",
+        "data-type": "image",
+
+        "data-tag": "behold-the-lamb",
+        "data-date": "2023-12-12",
+        "data-featured": "main",
+        "data-caption": "<h4>Behold, The Lamb</h4><p>Official Flyer for 'Behold, The Lamb'</p>",
+        "href": "./public/content/behold-the-lamb/image/behold-the-lamb-flyer-design-(5th-draft)-v3.gif",
+
+        "classType": "tall",
+        "thumbnailImage": "./public/content/behold-the-lamb/image/behold-the-lamb-flyer-design-(5th-draft)-v3.gif",
+        "thumbnailImageAlt": "Behold, The Lamb Flyer"
+      }
+    },
+    {
+      "image-item": {
+        "data-fancybox": "image-gallery",
+        "data-type": "image",
+
+        "data-tag": "behold-the-lamb",
+        "data-date": "2023-12-12",
+        "data-featured": "main",
+        "data-caption": "<h4>Behold, The Lamb (Alternate)</h4><p>Alternate Flyer for 'Behold, The Lamb'</p>",
+        "href": "./public/content/behold-the-lamb/image/behold-the-lamb-flyer-design-(2nd-draft).gif",
+
+        "classType": "tall",
+        "thumbnailImage": "./public/content/behold-the-lamb/image/behold-the-lamb-flyer-design-(2nd-draft).gif",
+        "thumbnailImageAlt": "Behold, The Lamb Flyer (Alternative)"
+      }
+    },
+
+
+
+
+    {
+      "image-item": {
+        "data-fancybox": "image-gallery",
+        "data-type": "image",
+
+        "data-tag": "apple-music",
+        "data-date": "2023-11-10",
+        "data-featured": "main",
+        "data-caption": "<h4>Apple Music: Robert Glasper</h4><p>Custom Apple Music cover designs inspired by the 'Browse Categories' page</p>",
+        "href": "./public/content/apple-music/apple-music-artwork-(glasper).jpg",
+
+        "classType": "big",
+        "thumbnailImage": "./public/content/apple-music/apple-music-artwork-(glasper).jpg",
+        "thumbnailImageAlt": "Apple Music: Robert Glasper"
+      }
+    },
+    {
+      "image-item": {
+        "data-fancybox": "image-gallery",
+        "data-type": "image",
+
+        "data-tag": "apple-music",
+        "data-date": "2023-11-10",
+        "data-featured": "main",
+        "data-caption": "<h4>Apple Music: Lianne La'Havas</h4><p>Custom Apple Music cover designs inspired by the 'Browse Categories' page</p>",
+        "href": "./public/content/apple-music/apple-music-artwork-(lahavas).jpg",
+
+        "classType": "",
+        "thumbnailImage": "./public/content/apple-music/apple-music-artwork-(lahavas).jpg",
+        "thumbnailImageAlt": "Apple Music: Lianne La'Havas"
+      }
+    },
+    {
+      "image-item": {
+        "data-fancybox": "image-gallery",
+        "data-type": "image",
+
+        "data-tag": "apple-music",
+        "data-date": "2023-11-10",
+        "data-featured": "main",
+        "data-caption": "<h4>Apple Music: Kamilah Gibson</h4><p>Custom Apple Music cover designs inspired by the 'Browse Categories' page</p>",
+        "href": "./public/content/apple-music/apple-music-artwork-(kamilah).jpg",
+
+        "classType": "",
+        "thumbnailImage": "./public/content/apple-music/apple-music-artwork-(kamilah).jpg",
+        "thumbnailImageAlt": "Apple Music: Kamilah Gibson"
+      }
+    },
+    {
+      "image-item": {
+        "data-fancybox": "image-gallery",
+        "data-type": "image",
+
+        "data-tag": "apple-music",
+        "data-date": "2023-11-10",
+        "data-featured": "main",
+        "data-caption": "<h4>Apple Music: Cleo Sol</h4><p>Custom Apple Music cover designs inspired by the 'Browse Categories' page</p>",
+        "href": "./public/content/apple-music/apple-music-artwork-(cleo-sol).jpg",
+
+        "classType": "",
+        "thumbnailImage": "./public/content/apple-music/apple-music-artwork-(cleo-sol).jpg",
+        "thumbnailImageAlt": "Apple Music: Cleo Sol"
+      }
+    },
+    {
+      "image-item": {
+        "data-fancybox": "image-gallery",
+        "data-type": "image",
+
+        "data-tag": "apple-music",
+        "data-date": "2023-11-10",
+        "data-featured": "sub",
+        "data-caption": "<h4>Apple Music: Daniel Bostwick</h4><p>Custom Apple Music cover designs inspired by the 'Browse Categories' page</p>",
+        "href": "./public/content/apple-music/apple-music-artwork-(bostwick).jpg",
+
+        "classType": "",
+        "thumbnailImage": "./public/content/apple-music/apple-music-artwork-(bostwick).jpg",
+        "thumbnailImageAlt": "Apple Music: Daniel Bostwick"
+      }
+    },
+    {
+      "image-item": {
+        "data-fancybox": "image-gallery",
+        "data-type": "image",
+
+        "data-tag": "apple-music",
+        "data-date": "2023-11-10",
+        "data-featured": "main",
+        "data-caption": "<h4>Apple Music: Kirk Franklin</h4><p>Custom Apple Music cover designs inspired by the 'Browse Categories' page</p>",
+        "href": "./public/content/apple-music/apple-music-artwork-(franklin).jpg",
+
+        "classType": "",
+        "thumbnailImage": "./public/content/apple-music/apple-music-artwork-(franklin).jpg",
+        "thumbnailImageAlt": "Apple Music: Kirk Franklin"
+      }
+    },
+    {
+      "image-item": {
+        "data-fancybox": "image-gallery",
+        "data-type": "image",
+
+        "data-tag": "apple-music",
+        "data-date": "2023-11-10",
+        "data-featured": "sub",
+        "data-caption": "<h4>Apple Music: Fred Hammond</h4><p>Custom Apple Music cover designs inspired by the 'Browse Categories' page</p>",
+        "href": "./public/content/apple-music/apple-music-artwork-(hammond).jpg",
+
+        "classType": "",
+        "thumbnailImage": "./public/content/apple-music/apple-music-artwork-(hammond).jpg",
+        "thumbnailImageAlt": "Apple Music: Kirk Franklin"
+      }
+    },
+
+    {
+      "image-item": {
+        "data-fancybox": "image-gallery",
+        "data-type": "image",
+
+        "data-tag": "apple-music",
+        "data-date": "2023-11-10",
+        "data-featured": "main",
+        "data-caption": "<h4>Apple Music: PJ Morton</h4><p>Custom Apple Music cover designs inspired by the 'Browse Categories' page</p>",
+        "href": "./public/content/apple-music/apple-music-artwork-(morton).jpg",
+
+        "classType": "",
+        "thumbnailImage": "./public/content/apple-music/apple-music-artwork-(morton).jpg",
+        "thumbnailImageAlt": "Apple Music: PJ Morton"
+      }
+    },
+    {
+      "image-item": {
+        "data-fancybox": "image-gallery",
+        "data-type": "image",
+
+        "data-tag": "apple-music",
+        "data-date": "2023-11-10",
+        "data-featured": "main",
+        "data-caption": "<h4>Apple Music: Terrace Martin</h4><p>Custom Apple Music cover designs inspired by the 'Browse Categories' page</p>",
+        "href": "./public/content/apple-music/apple-music-artwork-(martin).jpg",
+
+        "classType": "",
+        "thumbnailImage": "./public/content/apple-music/apple-music-artwork-(martin).jpg",
+        "thumbnailImageAlt": "Apple Music: Terrace Martin"
+      }
+    },
+
+
+
+
+    {
+      "image-item": {
+        "data-fancybox": "image-gallery",
+        "data-type": "image",
+
+        "data-tag": "sounds-of-africa",
+        "data-date": "2023-07-15",
+        "data-featured": "main",
+        "data-caption": "<h4>Sounds of Africa Flyer</h4><p>Official flyer for Sounds of Africa: We've Come This Far</p>",
+        "href": "./public/content/sounds-of-africa/image/sounds-of-africa-1st-flyer-white.gif",
+        
+        "classType": "tall",
+        "thumbnailImage": "./public/content/sounds-of-africa/image/sounds-of-africa-1st-flyer-white.gif",
+        "thumbnailImageAlt": "Sounds of Africa Flyer (white)"
+      }
+    },
+    {
+      "image-item": {
+        "data-fancybox": "image-gallery",
+        "data-type": "image",
+
+        "data-tag": "sounds-of-africa",
+        "data-date": "2023-07-15",
+        "data-featured": "main",
+        "data-caption": "<h4>Sounds of Africa Flyer (Black)</h4><p>Official flyer for Sounds of Africa: We've Come This Far</p>",
+        "href": "./public/content/sounds-of-africa/image/sounds-of-africa-1st-flyer-black.gif",
+
+        "classType": "tall",
+        "thumbnailImage": "./public/content/sounds-of-africa/image/sounds-of-africa-1st-flyer-black.gif",
+        "thumbnailImageAlt": "Sounds of Africa Flyer (Black)"
+      }
+    },
+    {
+      "image-item": {
+        "data-fancybox": "image-gallery",
+        "data-type": "image",
+
+        "data-tag": "sounds-of-africa",
+        "data-date": "2023-07-15",
+        "data-featured": "sub",
+        "data-caption": "<h4>Sounds of Africa - Alternate Flyer)</h4><p>Official flyer for Sounds of Africa: We've Come This Far</p>",
+        "href": "./public/content/sounds-of-africa/image/sounds-of-africa-2nd-flyer.gif",
+
+        "classType": "tall",
+        "thumbnailImage": "./public/content/sounds-of-africa/image/sounds-of-africa-2nd-flyer.gif",
+        "thumbnailImageAlt": "Sounds of Africa Flyer (Alternative)"
+      }
+    },
+    {
+      "image-item": {
+        "data-fancybox": "image-gallery",
+        "data-type": "image",
+
+        "data-tag": "sounds-of-africa",
+        "data-date": "2023-07-15",
+        "data-featured": "main",
+        "data-caption": "<h4>Sounds of Africa Lyrics Background Graphics 1</h4><p>Complimentary assets for Sounds of Africa</p>",
+        "href": "./public/content/sounds-of-africa/image/wctf-ppt-slide1.gif",
+
+        "classType": "wide",
+        "thumbnailImage": "./public/content/sounds-of-africa/image/wctf-ppt-slide1.gif",
+        "thumbnailImageAlt": "Sounds of Africa Lyrics Graphics 1"
+      }
+    },
+    {
+      "image-item": {
+        "data-fancybox": "image-gallery",
+        "data-type": "image",
+
+        "data-tag": "sounds-of-africa",
+        "data-date": "2023-07-15",
+        "data-featured": "sub",
+        "data-caption": "<h4>Sounds of Africa Lyrics Background Graphics 2</h4><p>Complimentary assets for Sounds of Africa</p>",
+        "href": "./public/content/sounds-of-africa/image/wctf-ppt-slide2.gif",
+
+        "classType": "wide",
+        "thumbnailImage": "./public/content/sounds-of-africa/image/wctf-ppt-slide2.gif",
+        "thumbnailImageAlt": "Sounds of Africa Lyrics Graphics 2"
+      }
+    },
+    {
+      "image-item": {
+        "data-fancybox": "image-gallery",
+        "data-type": "image",
+
+        "data-tag": "sounds-of-africa",
+        "data-date": "2023-07-15",
+        "data-featured": "sub",
+        "data-caption": "<h4>Sounds of Africa Lyrics Background Graphics 3</h4><p>Complimentary assets for Sounds of Africa</p>",
+        "href": "./public/content/sounds-of-africa/image/wctf-ppt-slide3.gif",
+
+        "classType": "",
+        "thumbnailImage": "./public/content/sounds-of-africa/image/wctf-ppt-slide3.gif",
+        "thumbnailImageAlt": "Sounds of Africa Lyrics Graphics 3"
+      }
+    },
+
+
+
+
+    {
+      "image-item": {
+        "data-fancybox": "image-gallery",
+        "data-type": "image",
+
+        "data-tag": "toastmasters",
+        "data-date": "2022-01-29",
+        "data-featured": "main",
+        "data-caption": "<h4>Toastmasters Speech Competition Flyer</h4><p>Promotional flyer for Luminaries Toastmasters's Speech Competition</p>",
+        "href": "./public/content/toastmasters/image/[jan-29]-speech-competition.gif",
+
+        "classType": "tall",
+        "thumbnailImage": "./public/content/toastmasters/image/[jan-29]-speech-competition.gif",
+        "thumbnailImageAlt": "Toastmasters Speech Competition Flyer"
+      }
+    },
+    {
+      "image-item": {
+        "data-fancybox": "image-gallery",
+        "data-type": "image",
+
+        "data-tag": "toastmasters",
+        "data-date": "2021-12-11",
+        "data-featured": "main",
+        "data-caption": "<h4>Toastmasters: Rush Time</h4><p>Weekly promotional flyer for Luminaries Toastmasters titled 'Rush Time'</p>",
+        "href": "./public/content/toastmasters/image/[dec-11]-rush-time.gif",
+
+        "classType": "tall",
+        "thumbnailImage": "./public/content/toastmasters/image/[dec-11]-rush-time.gif",
+        "thumbnailImageAlt": "Toastmasters Speech General Meeting Flyer (Rush Time)"
+      }
+    },
+    {
+      "image-item": {
+        "data-fancybox": "image-gallery",
+        "data-type": "image",
+
+        "data-tag": "toastmasters",
+        "data-date": "2021-10-23",
+        "data-featured": "main",
+        "data-caption": "<h4>Light Tales, Luminaries to the World</h4><p>Promotional flyer for Luminaries Toastmasters's open house.</p>",
+        "href": "./public/content/toastmasters/image/[oct-23]-light-tales-luminaries-to-the-world.gif",
+
+        "classType": "tall",
+        "thumbnailImage": "./public/content/toastmasters/image/[oct-23]-light-tales-luminaries-to-the-world.gif",
+        "thumbnailImageAlt": "Toastmasters Light Tales, Luminaries to the World"
+      }
+    },
+    {
+      "image-item": {
+        "data-fancybox": "image-gallery",
+        "data-type": "image",
+
+        "data-tag": "toastmasters",
+        "data-date": "2021-10-15",
+        "data-featured": "main",
+        "data-caption": "<h4>Toastmasters: Rival the Marvels</h4><p>Weekly promotional flyer for Luminaries Toastmasters titled 'Rival the Marvels'</p>",
+        "href": "./public/content/toastmasters/image/[oct-15]-rival-the-marvels.gif",
+
+        "classType": "tall",
+        "thumbnailImage": "./public/content/toastmasters/image/[oct-15]-rival-the-marvels.gif",
+        "thumbnailImageAlt": "Toastmasters General Meeting Flyer (Rival the Marvels)"
+      }
+    },
+    {
+      "image-item": {
+        "data-fancybox": "image-gallery",
+        "data-type": "image",
+
+        "data-tag": "toastmasters",
+        "data-date": "2021-10-8",
+        "data-featured": "main",
+        "data-caption": "<h4>Toastmasters: Detox the Pressure</h4><p>Weekly promotional flyer for Luminaries Toastmasters titled 'Hand Me My Trophy'</p>",
+        "href": "./public/content/toastmasters/image/[oct-8] detox-the-pressure.jpg",
+
+        "classType": "tall",
+        "thumbnailImage": "./public/content/toastmasters/image/[oct-8] detox-the-pressure.jpg",
+        "thumbnailImageAlt": "Toastmasters General Meeting Flyer (Hand Me My Trophy)"
+      }
+    },
+    {
+      "image-item": {
+        "data-fancybox": "image-gallery",
+        "data-type": "image",
+
+        "data-tag": "toastmasters",
+        "data-date": "2021-09-10",
+        "data-featured": "main",
+        "data-caption": "<h4>Toastmasters: Humor the Pure You</h4><p>Weekly promotional flyer for Luminaries Toastmasters titled 'Hand Me My Trophy'</p>",
+        "href": "./public/content/toastmasters/image/[sep-10] humor-the-pure-you.jpg",
+
+        "classType": "tall",
+        "thumbnailImage": "./public/content/toastmasters/image/[sep-10] humor-the-pure-you.jpg",
+        "thumbnailImageAlt": "Toastmasters General Meeting Flyer (Hand Me My Trophy)"
+      }
+    },
+    {
+      "image-item": {
+        "data-fancybox": "image-gallery",
+        "data-type": "image",
+
+        "data-tag": "toastmasters",
+        "data-date": "2021-08-27",
+        "data-featured": "main",
+        "data-caption": "<h4>Toastmasters: Hand Me My Trophy</h4><p>Weekly promotional flyer for Luminaries Toastmasters titled 'Hand Me My Trophy'</p>",
+        "href": "./public/content/toastmasters/image/[aug-27]-hand-me-my-trophy.gif",
+
+        "classType": "tall",
+        "thumbnailImage": "./public/content/toastmasters/image/[aug-27]-hand-me-my-trophy.gif",
+        "thumbnailImageAlt": "Toastmasters General Meeting Flyer (Hand Me My Trophy)"
+      }
+    },
+    {
+      "image-item": {
+        "data-fancybox": "image-gallery",
+        "data-type": "image",
+
+        "data-tag": "toastmasters",
+        "data-date": "2021-08-20",
+        "data-featured": "main",
+        "data-caption": "<h4>Toastmasters: Wine Tasting</h4><p>Weekly promotional flyer for Luminaries Toastmasters titled 'Wine Tasting'</p>",
+        "href": "./public/content/toastmasters/image/[aug-20]-wine-tasting.gif",
+
+        "classType": "tall",
+        "thumbnailImage": "./public/content/toastmasters/image/[aug-20]-wine-tasting.gif",
+        "thumbnailImageAlt": "Toastmasters General Meeting Flyer (Wine Tasting)"
+      }
+    }
+  ],
+
+
+
+
+  
+
+
+  "web": [
+    {
+      "web-item": {
+        "data-fancybox": "web-gallery",
+        "data-type": "iframe",
+
+        "data-tag": "github",
+        "data-date": "2023-11-10",
+        "data-featured": "main",
+        "data-caption": "<h4>Dial Pad</h4><p>Working Dial Pad with DTMF sounds</p>",
+        "href": "https://terryjg.github.io/Dial-Pad/",
+
+        "classType": "tall",
+        "thumbnailImage": "./public/content/web-item/dial-pad/dial-pad.jpg",
+        "thumbnailImageAlt": "Animated Wallpaper"
+      }
+    },
+    {
+      "web-item": {
+        "data-fancybox": "web-gallery",
+        "data-type": "iframe",
+
+        "data-tag": "github",
+        "data-date": "2023-09-10",
+        "data-featured": "main",
+        "data-caption": "<h4>Animated Wallpaper Clock</h4><p>Wallpaper clock with dynamic parallax effect and image slideshow</p>",
+        "href": "https://terryjg.github.io/Animated-Wallpaper-Clock/",
+
+        "classType": "",
+        "thumbnailImage": "./public/content/web-item/animated-wallpaper/animated-wallpaper.gif",
+        "thumbnailImageAlt": "Animated Wallpaper"
+      }
+    },
+    {
+      "web-item": {
+        "data-fancybox": "web-gallery",
+        "data-type": "iframe",
+
+        "data-tag": "github",
+        "data-date": "2023-09-10",
+        "data-featured": "main",
+        "data-caption": "<h4>Mario Kart 8 Courses</h4><p>List of courses in Mario Kart 8 Deluxe with search functionality</p>",
+        "href": "https://terryjg.github.io/Mario-Kart-8-Courses/",
+
+        "classType": "",
+        "thumbnailImage": "./public/content/web-item/mk-8-courses/mk-8.gif",
+        "thumbnailImageAlt": "Mario Kart 8 Courses"
+      }
+    },
+    {
+      "web-item": {
+        "data-fancybox": "web-gallery",
+        "data-type": "iframe",
+
+        "data-tag": "god-our-only-hope",
+        "data-date": "2022-10-01",
+        "data-featured": "main",
+        "data-caption": "<h4>God Our Only Hope E-invite</h4><p>Event info page for 'God Our Only Hope' Live Debut Performance (Made with Wix)</p>",
+        "href": "https://dbostwick242.wixsite.com/einvite01-10-22",
+
+        "classType": "",
+        "thumbnailImage": "./public/content/web-item/god-our-only-hope/god-our-only-hope.gif",
+        "thumbnailImageAlt": "'God Our Only Hope' E-invite"
+      }
+    },
+    {
+      "web-item": {
+        "data-fancybox": "web-gallery",
+        "data-type": "iframe",
+
+        "data-tag": "foundation-of-triathletes",
+        "data-date": "2022-05-12",
+        "data-featured": "main",
+        "data-caption": "<h4>Foundation of Tri-athletes Incorporated</h4><p>Website for Foundation of Tri-athletes Incorporated Exercise Club in Nassau, Bahamas (Made with Wix)</p>",
+        "href": "https://www.thefoundationoftri-athletesinc.com/",
+
+        "classType": "",
+        "thumbnailImage": "./public/content/web-item/foundation-of-triathletes/foundation-of-triathletes.gif",
+        "thumbnailImageAlt": "Foundation of Tri-athletes"
+      }
+    }
+  ]
+}

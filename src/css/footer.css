@@ -1,0 +1,14 @@
+/* || FOOTER ||
+Used for page navigation and credits.
+*/
+footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+footer a {
+    color: #050A30;
+}

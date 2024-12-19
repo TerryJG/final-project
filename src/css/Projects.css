@@ -1,0 +1,23 @@
+/* || CATEGORY BUTTONS ||
+Button styling for categories */
+#all:hover, #video-editing:hover, #graphic-design:hover {
+    cursor: pointer;
+    transition: all ease-in-out 0.3s;
+    background-color: #2a4b85;
+}
+
+#apple-music:hover {
+    background-color: #ff0000;
+}
+
+#behold-the-lamb:hover {
+    background-color: #dfb300;
+}
+
+#sounds-of-africa:hover {
+    background-color: #00dfc5;
+}
+
+#toastmasters:hover {
+    background-color: #ff0000;
+}

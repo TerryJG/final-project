@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio Website - Final Project</title>
+
+    <link rel="stylesheet" href="./src/css/Credits.css">
+    <link rel="stylesheet" href="./src/css/PageTitle.css">
+    <link rel="stylesheet" href="./src/css/external-links.css">
+    <link rel="stylesheet" href="./src/css/footer.css">
+
+    <link rel="stylesheet" href="./src/css/preloader.css">
+    <link rel="stylesheet" href="./src/css/fonts.css">
+    <link rel="stylesheet" href="./src/css/scrollbar.css">
+
+    <!-- Website Metadata -->
+    <meta property="og:title" content="Terrance Gibson | Digital Portfolio">
+    <meta property="og:description"
+        content="Digital portfolio of Terrance Gibson">
+    <link rel="icon" type="image/x-icon" href="public/favicon.ico">
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            width: 100vw;
+            height: 100vh;
+            overflow-x: hidden;
+            overflow-y: hidden;
+            transition: all ease-out 1s;
+        }
+    </style>
+</head>
+
+<body id="body">
+
+    <!-- Preloader -->
+    <div id="preloader" class="preloader">
+        <img src="./public/loading.gif" alt="loading">
+    </div>
+
+    <header class="page-title">
+        <h1 class="font-primary">CREDITS</h1>
+
+        <nav class="external-links">
+            <a href="projects.html" id="view-projects" class="button-link font-secondary">
+                <span class="icon-container">
+                    <img class="icon" src="public/icons/play-solid_white.png" alt="play-icon-white">
+                    <img class="icon" src="public/icons/image-solid_white.png" alt="image-icon-white">
+                </span>View All Projects
+            </a>
+
+            <a href="resume.html" id="about-me" class="button-link font-secondary">
+                <span class="icon-container">
+                    <img class="icon" src="public/icons/circle-info-solid_white.png" alt="info-icon-white">
+                </span>About Me
+            </a>
+
+            <a href="contact.html" id="contact" class="button-link font-secondary">
+                <span class="icon-container">
+                    <img class="icon" src="public/icons/envelope-solid_white.png" alt="paragraph-icon-white">
+                </span>Contact
+            </a>
+        </nav>
+    </header>
+
+    <main class="main-container">
+        <section class="outline">
+            <h2 class="font-primary">Outline</h2>
+            <p class="font-secondary">For CSD 1100, HTML & JavaScript, my final project is a personal portfolio website,
+                where I showcase my real creative works in graphic design and video editing. This website will
+                demonstrate my overall abilities in creating HTML structures, styling with CSS, and adding interactivity
+                with JavaScript learnt throughout the course as well as using additional resources from W3Schools and
+                YouTube.
+            </p>
+
+            <h2 class="font-primary">Website Structure</h2>
+            <p class="font-secondary">In learning how to work with industry-standard frameworks such as React.js, my
+                folder structure of my project is modeled after a React project. The "public" folder consists of all
+                static content such as images and videos, as well as icons for buttons. The "src" folder, abbrivated
+                from "source", includes all the CSS and JS files used for the portfolio website.
+            </p>
+            <p class="font-secondary">The website will feature five pages:
+                <a href="index.html">Homepage,</a>
+                <a href="projects.html">Projects,</a>
+                <a href="resume.html">About Me,</a>
+                <a href="contact.html">Contact,</a>
+                and
+                <a href="credits.html">Credits,</a>
+                with each page serving a specific purpose within the site's framework. All pages, except the
+                landing page, will include a navigation bar positioned at the top, containing buttons linked to various
+                sections. Additionally, a minimal site navigation bar will be present at the bottom of every page,
+                visually showing the user the current location within the site.
+            </p>
+
+            <p class="font-secondary">The <a href="index.html">Homepage</a> will be the landing page when a user visits
+                the site. It is styled as a set of columns with featured images and videos. Near the top of the landing
+                page will be a set of buttons acting as navigation links to different pages of the website using the
+                <code class="html-tag">&lt;a href=""&gt;</code> element.
+            </p>
+
+            <p class="font-secondary"> The <a href="projects.html">Projects</a> page is designed similarly to the
+                Homepage, showcasing all the images and videos incorporated into the portfolio website. At the top of
+                the Projects page, users will find a group of categories presented as buttons, created using the
+                <code class="html-tag">&lt;button&gt;</code> element. Each category contains a selection of images and
+                videos. When a
+                user clicks on one of these category buttons, the JavaScript logic will filter out any images and videos
+                not belonging to that category. For example, there are two buttons labeled <b>"Graphic Design"</b> and
+                <b>"Video Editing"</b>. If you click on <b>"Graphic Design"</b>, the JavaScript will scan all the
+                elements within the <code class="html-tag">&lt;main&gt;</code> container holding the images and videos.
+                It will hide any
+                elements that do not have a class called <b>"image-item"</b>, which will leave only those that do.
+            </p>
+
+            <p class="font-secondary">The <a href="resume.html">About Me</a> page is a text-based resume, utilizing a
+                flex-column layout to organize information under sections like Education, Experience, Skills, and
+                Outreach. A side navigation bar is included exclusively in this page that allows users to navigate
+                between sections using the <code class="html-tag">&lt;a href=""&gt;</code> element.
+            </p>
+
+            <p class="font-secondary">The <a href="contact.html">Contact</a> page is a form box featuring input fields
+                for First Name, Last Name, Email, and Message, allowing users to reach out and connect.
+            </p>
+
+            <p class="font-secondary">Lastly, the <a href="credits.html">Credits</a> page will outline all my resources
+                as well as my outline for the website.
+            </p>
+
+
+            <h2 class="font-primary">Styling</h2>
+            <p class="font-secondary">Throughout the website's design process, my primary focus was on modularity. This
+                meant that CSS files can be reused across the project and reduce repetition in code. Files such as the
+                <code class="css-tag">preloader.css</code>, <code class="css-tag">scrollbar.css</code>, <code
+                    class="css-tag">fonts.css</code>, and column layouts are styled using this approach, which makes the
+                overall look more consistent across pages. Additionally, this gives the added benefit of modifying a
+                particular CSS file, and the changes can automatically be reflected throughout the website.
+            </p>
+
+            <p class="font-secondary">For styling, the portfolio website uses a mix of Flexbox and Tables using plain
+                CSS. Flexbox ensures a consistent look and reliably arrange elements in either rows or columns. Tables
+                provide a structured format for organizing and aligning information, used in the <a
+                    href="resume.html">About Me</a> page.
+            </p>
+
+            <p class="font-secondary">Each page is fully responsive and designed for multiple screen resolutions using
+                Media Queries. Although CSS frameworks like <a href="https://getbootstrap.com/">Bootstrap</a> or <a
+                    href="https://tailwindcss.com/">TailwindCSS</a> could make website responsiveness
+                more efficient, I wanted to both learn and demonstrate how responsiveness works without any
+                abstractions.
+            </p>
+        </section>
+    </main>
+
+    <footer>
+        <p id="nav" class="font-secondary" style="margin-bottom: 0.5rem;">
+            <a href="index.html">Home</a> >
+            <a style="text-decoration: underline; cursor: pointer;" href="credits.html"><b>Credits</b></a>
+        </p>
+        <p id="copyright" class="font-primary" style="margin-bottom: 1.5rem;">2024 | Terrance Gibson</p>
+    </footer>
+
+    <script src="./src/js/preloader.js"></script>
+</body>

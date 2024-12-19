@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio Website - Final Project</title>
+
+    <link rel="stylesheet" href="./src/css/Contact.css">
+    <link rel="stylesheet" href="./src/css/PageTitle.css">
+    <link rel="stylesheet" href="./src/css/external-links.css">
+    <link rel="stylesheet" href="./src/css/footer.css">
+
+    <link rel="stylesheet" href="./src/css/preloader.css">
+    <link rel="stylesheet" href="./src/css/fonts.css">
+    <link rel="stylesheet" href="./src/css/scrollbar.css">
+
+    <!-- Website Metadata -->
+    <meta property="og:title" content="Terrance Gibson | Digital Portfolio">
+    <meta property="og:description"
+        content="Digital portfolio of Terrance Gibson">
+    <link rel="icon" type="image/x-icon" href="public/favicon.ico">
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            width: 100vw;
+            height: 100vh;
+            overflow-x: hidden;
+            overflow-y: hidden;
+            transition: all ease-out 1s;
+        }
+    </style>
+</head>
+
+<body id="body">
+
+    <!-- Preloader -->
+    <div id="preloader" class="preloader">
+        <img src="./public/loading.gif" alt="loading">
+    </div>
+
+    <header class="page-title">
+        <h1 class="font-primary">CONTACT</h1>
+
+        <nav class="external-links">
+            <a href="projects.html" id="view-projects" class="button-link font-secondary">
+                <span class="icon-container">
+                    <img class="icon" src="public/icons/play-solid_white.png" alt="play-icon-white">
+                    <img class="icon" src="public/icons/image-solid_white.png" alt="image-icon-white">
+                </span>View All Projects
+            </a>
+
+            <a href="resume.html" id="about-me" class="button-link font-secondary">
+                <span class="icon-container">
+                    <img class="icon" src="public/icons/circle-info-solid_white.png" alt="info-circle-icon-white">
+                </span>About Me
+            </a>
+
+            <a href="credits.html" id="contact" class="button-link font-secondary">
+                <span class="icon-container">
+                    <img class="icon" src="public/icons/bars-staggered-solid_white.png" alt="paragraph-icon-white">
+                </span>Credits
+            </a>
+        </nav>
+    </header>
+
+    <main class="main-container">
+        <div class="contact-info">
+            <span class="ph-number font-secondary">
+                <img class="icon" src="public/icons/phone-solid.png" alt="phone-icon">
+                +1 242-000-0000
+            </span>
+
+            <span class="email font-secondary">
+                <img class="icon" src="public/icons/envelope-solid.png" alt="mail-icon">
+                example@example.com
+            </span>
+        </div>
+
+        <div class="contact-form">
+            <form action="action.html" method="POST">
+                <label class="font-secondary" for="first-name">First name:</label>
+                <input class="font-secondary" required type="text" id="first-name" name="first-name"
+                    style="height: 1.5rem;">
+                <label class="font-secondary" for="last-name">Last name:</label>
+                <input class="font-secondary" required type="text" id="last-name" name="last-name"
+                    style="height: 1.5rem;">
+                <br>
+                <label class="font-secondary" for="email">Email:</label>
+                <input class="font-secondary" required type="email" id="email" name="email" style="height: 1.5rem;">
+                <br>
+                <label class="font-secondary" for="msg">Message:</label>
+                <input class="font-secondary" type="text" id="msg" name="msg" style="height: 15rem;"
+                    placeholder="Enter Message Here">
+                <input class="font-secondary submit-btn" style="width: fit-content; padding: 0.5rem;" type="submit"
+                    value="Submit">
+            </form>
+        </div>
+    </main>
+
+    <footer>
+        <p id="nav" class="font-secondary" style="margin-bottom: 0.5rem;">
+            <a href="index.html">Home</a> >
+            <a style="text-decoration: underline; cursor: pointer;" href="contact.html"><b>Contact</b></a>
+        </p>
+        <p id="copyright" class="font-primary" style="margin-bottom: 1.5rem;">2024 | Terrance Gibson</p>
+    </footer>
+
+    <script src="./src/js/preloader.js"></script>
+</body>

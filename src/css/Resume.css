@@ -1,0 +1,183 @@
+.main-container {
+    padding: 3rem;
+}
+
+/* || SIDEBAR NAVIGATION ||
+Includes name, email address, phone-number & home address. */
+.sidebar {
+    background-color: #050A30;
+    position: fixed;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    width: fit-content;
+    height: 100vh;
+
+    text-align: right;
+    font-size: 1.3rem;
+
+    top: 0;
+    right: 0;
+    gap: 0.5rem;
+    padding: 1rem;
+    z-index: 2;
+}
+.sidebar a {
+    color: #fff;
+}
+
+/* --MEDIA QUERIES-- */
+/* SMARTPHONES */
+@media all and (min-width: 320px) {
+    .sidebar {
+        flex-direction: row;
+        height: fit-content;
+        width: 100vw;
+        background-color: rgba(5, 10, 48, 0.8);
+        top: auto;
+        bottom: 0;
+    }
+
+}
+
+/* LAPTOPS */
+@media all and (min-width: 1024px) {
+    .sidebar {
+        flex-direction: column;
+        width: fit-content;
+        height: 100vh;
+        background-color: #050A30;
+        top: 0;
+        bottom: auto;
+    }
+}
+
+/* || CONTACT ||
+Includes name, email address, phone-number & home address. */
+.contact {
+    width: 40%;
+}
+#name {
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 0rem;
+}
+
+#email {
+    font-size: 1rem;
+    font-weight: 500;
+    margin-bottom: 0.2rem;
+}
+
+#ph-number {
+    font-size: 1rem;
+    font-weight: 500;
+    margin-bottom: 0.2rem;
+}
+
+#address {
+    font-size: 1.1rem;
+    font-weight: 700;
+    line-height: 1.5rem;
+    margin-bottom: 0.2rem;
+}
+
+#overview {
+    font-size: 1rem;
+    font-weight: 300;
+    line-height: 1.2rem;
+    margin-bottom: 1rem;
+}
+
+
+/* --MEDIA QUERIES-- */
+/* SMARTPHONES */
+@media all and (min-width: 320px) {
+    .contact {
+        width: 100%;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+    }
+
+}
+
+/* LAPTOPS */
+@media all and (min-width: 1024px) {
+    .contact {
+        width: 50%;
+        text-align: left;
+    }
+}
+
+/* || TABLE ||
+Styling for table formatted in two columns */
+td {
+    width: 50vw;
+    text-align: left;
+}
+
+.education, .experience, .abilities, .outreach {
+    font-size: 1.6rem;
+    margin-top: 4rem;
+    margin-bottom: 0.5rem;
+}
+
+.list-header {
+    font-size: 1.3rem;
+    font-style: italic;
+
+}
+.list-subheader {
+    font-size: 1rem;
+    margin-bottom: 1.3rem;
+}
+
+
+hr {
+    width: 50%;
+}
+
+
+/* --MEDIA QUERIES-- */
+/* SMARTPHONES */
+@media all and (min-width: 320px) {
+    .education, .experience, .abilities, .outreach, .skills-list, .outreach-list {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        justify-content: center;
+    }
+
+    hr {
+        width: 80%;
+    }
+
+    .skills-list .icon {
+        height: 30px;
+        width: auto;
+    }
+}
+
+/* TABLETS */
+@media all and (min-width: 768px) {
+    hr {
+        width: 50%;
+    }
+
+    .skills-list .icon {
+        height: 35px;
+        width: auto;
+    }
+}
+
+/* LAPTOPS */
+@media all and (min-width: 1024px) {
+    .education, .experience, .abilities, .outreach, .skills-list, .outreach-list {
+        display: flex;
+        flex-direction: column;
+        text-align: left;
+        justify-content: flex-start;
+    }
+}

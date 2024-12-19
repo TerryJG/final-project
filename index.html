@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio Website - Final Project</title>
+
+    <link rel="stylesheet" href="./src/css/LandingPage.css">
+    <link rel="stylesheet" href="./src/css/grid-layout.css">
+    <link rel="stylesheet" href="./src/css/external-links.css">
+    <link rel="stylesheet" href="./src/css/footer.css">
+
+    <link rel="stylesheet" href="./src/css/preloader.css">
+    <link rel="stylesheet" href="./src/css/fonts.css">
+    <link rel="stylesheet" href="./src/css/scrollbar.css">
+
+    <!-- Website Metadata -->
+    <meta property="og:title" content="Terrance Gibson | Digital Portfolio">
+    <meta property="og:description"
+        content="Digital portfolio of Terrance Gibson">
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            width: 100vw;
+            height: 100vh;
+            overflow-x: hidden;
+            overflow-y: hidden;
+            transition: all ease-out 1s;
+        }
+    </style>
+</head>
+
+<body id="body">
+
+    <!-- Preloader -->
+    <div id="preloader" class="preloader">
+        <img src="public/loading.gif" alt="loading">
+    </div>
+
+    <main class="main-container">
+        <div class="grid">
+
+            <!-- Portfolio Overview Info -->
+            <div class="overview  rounded">
+                <div class="contact">
+                    <h2 id="name" class="font-primary">Terrance Gibson</h2>
+                    <h2 id="email" class="font-secondary">example@example.com</h2>
+                    <h2 id="ph-number" class="font-secondary">+1 242 000-0000</h2>
+                    <h2 id="address" class="font-secondary">#123 Example Street, Nassau, Bahamas</h2>
+                </div>
+
+                <p class="summary font-secondary">Freelance Video Editor, Web Developer<br>& Graphic Designer</p>
+
+                <div class="social-media-links">
+                    <a href="https://github.com/TerryJG">
+                        <img id="github" class="icon" src="public/icons/github.png" alt="Github">
+                    </a>
+                    <a href="https://codepen.io/TerranceJG">
+                        <img id="codepen" class="icon" src="public/icons/codepen.png" alt="Codepen">
+                    </a>
+                    <a href="https://www.youtube.com/channel/UCVV652t2zYnQT_XH9IP5iuw">
+                        <img id="youtube" class="icon" src="public/icons/youtube.png" alt="YouTube">
+                    </a>
+                    <a href="https://www.facebook.com/inVsnMedia">
+                        <img id="facebook" class="icon" src="public/icons/facebook.png" alt="Facebook">
+                    </a>
+                    <a href="https://www.instagram.com/invsnmedia.bs/">
+                        <img id="instagram" class="icon" src="public/icons/instagram.png" alt="instagram">
+                    </a>
+                </div>
+
+                <div class="external-links">
+                    <a href="projects.html" id="view-projects" class="button-link">
+                        <span class="icon-container">
+                            <img class="icon" src="public/icons/play-solid_white.png" alt="play-icon">
+                            <img class="icon" src="public/icons/image-solid_white.png" alt="image-icon">
+                        </span>
+                        <p class="font-secondary">View All Projects</p>
+                    </a>
+
+                    <a href="resume.html" id="about-me" class="button-link">
+                        <span class="icon-container">
+                            <img class="icon" src="public/icons/circle-info-solid_white.png" alt="info-icon">
+                        </span>
+                        <p class="font-secondary">About Me</p>
+                    </a>
+
+                    <a href="contact.html" id="contact" class="button-link">
+                        <span class="icon-container">
+                            <img class="icon" src="public/icons/envelope-solid_white.png" alt="mail-icon">
+                        </span>
+                        <p class="font-secondary">Contact</p>
+                    </a>
+
+                    <a href="credits.html" id="credits" class="button-link">
+                        <span class="icon-container">
+                            <img class="icon" src="public/icons/bars-staggered-solid_white.png" alt="paragraph-icon">
+                        </span>
+                        <p class="font-secondary">Credits</p>
+                    </a>
+                </div>
+            </div>
+
+            <!-- Content Gallery -->
+            <div id="gallery" class="gallery">
+                <div class="image-item">
+                    <img class="icon" src="public/icons/image-solid_white.png" alt="image-icon">
+                    <img class="rounded" src="./public/content/apple-music/apple-music-artwork-(kamilah).jpg"
+                        alt="Apple Music: Kamilah Gibson">
+                </div>
+
+                <div class="image-item">
+                    <img class="icon" src="public/icons/image-solid_white.png" alt="image-icon">
+                    <img class="rounded" src="public/content/toastmasters/image/(oct-8)-detox-the-pressure.jpg"
+                        alt="Toastmasters General Meeting Flyer (Detox the Pressure)">
+                </div>
+
+                <div class="video-item">
+                    <img class="icon" src="public/icons/play-solid_white.png" alt="play-icon">
+                    <iframe class="rounded video-player"
+                        src="https://www.youtube.com/embed/LhrvW305fgY?si=awy20V37tTGHTDfG" title="YouTube video player"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        referrerpolicy="strict-origin-when-cross-origin">
+                    </iframe>
+                </div>
+
+                <div class="video-item">
+                    <img class="icon" src="public/icons/play-solid_white.png" alt="play-icon">
+                    <iframe class="rounded video-player"
+                        src="https://www.youtube.com/embed/_jUtAJL7zLo?si=4lCI0f-GPR4tG6aV" title="YouTube video player"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        referrerpolicy="strict-origin-when-cross-origin">
+                    </iframe>
+                </div>
+
+                <div class="video-item">
+                    <img class="icon" src="public/icons/play-solid_white.png" alt="play-icon">
+                    <iframe class="rounded video-player"
+                        src="https://www.youtube.com/embed/fwhLNXqNTeU?si=odzWgyMR4BZq5xLM" title="YouTube video player"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        referrerpolicy="strict-origin-when-cross-origin">
+                    </iframe>
+                </div>
+
+                <div class="image-item">
+                    <img class="icon" src="public/icons/image-solid_white.png" alt="image-icon">
+                    <img class="rounded" src="public/content/apple-music/apple-music-artwork-(glasper).jpg"
+                        alt="Apple Music: Robert Glasper">
+                </div>
+
+                <div class="image-item">
+                    <img class="icon" src="public/icons/image-solid_white.png" alt="image-icon">
+                    <img class="rounded"
+                        src="public/content/behold-the-lamb/image/behold-the-lamb-flyer-design-(5th-draft)-v3.gif"
+                        alt="Behold, The Lamb Flyer">
+                </div>
+
+                <div class="image-item">
+                    <img class="icon" src="public/icons/image-solid_white.png" alt="image-icon">
+                    <img class="rounded" src="public/content/apple-music/apple-music-artwork-(lahavas).jpg"
+                        alt="Apple Music: Lianne La'Havas">
+                </div>
+
+                <div class="image-item">
+                    <img class="icon" src="public/icons/image-solid_white.png" alt="image-icon">
+                    <img class="rounded" src="public/content/apple-music/apple-music-artwork-(cleo-sol).jpg"
+                        alt="Apple Music: Cleo Sol">
+                </div>
+
+                <div class="image-item">
+                    <img class="icon" src="public/icons/image-solid_white.png" alt="image-icon">
+                    <img class="rounded" src="public/content/apple-music/apple-music-artwork-(franklin).jpg"
+                        alt="Apple Music: Kirk Franklin">
+                </div>
+
+                <div class="image-item">
+                    <img class="icon" src="public/icons/image-solid_white.png" alt="image-icon">
+                    <img class="rounded" src="public/content/apple-music/apple-music-artwork-(morton).jpg"
+                        alt="Apple Music: PJ Morton">
+                </div>
+
+                <div class="image-item">
+                    <img class="icon" src="public/icons/image-solid_white.png" alt="image-icon">
+                    <img class="rounded" src="public/content/apple-music/apple-music-artwork-(martin).jpg"
+                        alt="Apple Music: Terrace Martin">
+                </div>
+
+                <div class="image-item">
+                    <img class="icon" src="public/icons/image-solid_white.png" alt="image-icon">
+                    <img class="rounded"
+                        src="public/content/sounds-of-africa/image/sounds-of-africa-1st-flyer-white.gif"
+                        alt="Sounds of Africa Flyer (white)">
+                </div>
+
+                <div class="image-item">
+                    <img class="icon" src="public/icons/image-solid_white.png" alt="image-icon">
+                    <img class="rounded" src="public/content/toastmasters/image/(jan-29)-speech-competition.gif"
+                        alt="Toastmasters Speech Competition Flyer">
+                </div>
+
+                <div class="image-item">
+                    <img class="icon" src="public/icons/image-solid_white.png" alt="image-icon">
+                    <img class="rounded" src="public/content/toastmasters/image/(dec-11)-rush-time.gif"
+                        alt="Toastmasters Speech General Meeting Flyer (Rush Time)">
+                </div>
+
+                <div class="image-item">
+                    <img class="icon" src="public/icons/image-solid_white.png" alt="image-icon">
+                    <img class="rounded"
+                        src="public/content/toastmasters/image/(oct-23)-light-tales-luminaries-to-the-world.gif"
+                        alt="Toastmasters Light Tales, Luminaries to the World">
+                </div>
+
+                <div class="image-item">
+                    <img class="icon" src="public/icons/image-solid_white.png" alt="image-icon">
+                    <img class="rounded" src="public/content/toastmasters/image/(oct-15)-rival-the-marvels.gif"
+                        alt="Toastmasters General Meeting Flyer (Rival the Marvels)">
+                </div>
+
+                <div class="image-item">
+                    <img class="icon" src="public/icons/image-solid_white.png" alt="image-icon">
+                    <img class="rounded" src="public/content/toastmasters/image/(sep-10)-humor-the-pure-you.jpg"
+                        alt="Toastmasters General Meeting Flyer (Humor the Pure You)">
+                </div>
+
+                <div class="image-item">
+                    <img class="icon" src="public/icons/image-solid_white.png" alt="image-icon">
+                    <img class="rounded" src="public/content/toastmasters/image/(aug-27)-hand-me-my-trophy.gif"
+                        alt="Toastmasters General Meeting Flyer (Hand Me My Trophy)">
+                </div>
+
+                <div class="image-item">
+                    <img class="icon" src="public/icons/image-solid_white.png" alt="image-icon">
+                    <img class="rounded" src="public/content/toastmasters/image/(aug-20)-wine-tasting.gif"
+                        alt="Toastmasters General Meeting Flyer (Wine Tasting)">
+                </div>
+            </div>
+        </div>
+
+        <footer>
+            <p id="nav" class="font-secondary" style="margin-bottom: 0.5rem;">
+                <a href="index.html">Home</a> |
+                <a href="projects.html">Projects</a> |
+                <a href="resume.html">About Me</a> |
+                <a href="contact.html">Contact</a>
+                <a href="credits.html">Credits</a>
+            </p>
+            <p id="copyright" class="font-primary" style="margin-bottom: 1.5rem;">2024 | Terrance Gibson</p>
+        </footer>
+    </main>
+    <script src="./src/js/preloader.js"></script>
+</body>
+
+</html>

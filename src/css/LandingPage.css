@@ -1,0 +1,124 @@
+/* || CONTACT ||
+Includes name, email address, phone-number & home address. */
+#name {
+    /* Relative Element (rem); takes the browser's base (px) value and multipies it by the rem value.
+    The base px value for Google Chrome is 16px, hence 16px*2px = 32px/2rem */
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 0.2rem;
+}
+
+#email {
+    font-size: 1rem;
+    font-weight: 500;
+    margin-bottom: 0.2rem;
+}
+
+#ph-number {
+    font-size: 1rem;
+    font-weight: 500;
+    margin-bottom: 0.5rem;
+}
+
+#address {
+    font-size: 1.2rem;
+    font-weight: 700;
+    line-height: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+/* --MEDIA QUERIES-- */
+/* SMARTPHONES */
+@media all and (min-width: 320px) {
+    .contact {
+        text-align: center;
+        align-items: center;
+    }
+}
+
+/* TABLETS */
+@media all and (min-width: 768px) {
+    .contact {
+        text-align: left;
+        align-items: start;
+    }
+}
+
+
+
+
+
+/* || SUMMARY ||
+Provide a brief summary/outline. */
+.summary {
+    font-size: 1.1rem;
+    font-weight: 500;
+    line-height: 1.4rem;
+    margin-bottom: 1rem;
+}
+
+/* --MEDIA QUERIES-- */
+/* SMARTPHONES */
+@media all and (min-width: 320px) {
+    .summary {
+        text-align: center;
+        align-items: center;
+    }
+}
+
+/* TABLETS */
+@media all and (min-width: 768px) {
+    .summary {
+        text-align: left;
+        align-items: start;
+    }
+}
+
+
+
+
+
+/* || SOCIAL MEDIA LINKS ||
+Styling for social media links container and fontAwesome icons. */
+.social-media-links {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: #050A30;
+}
+
+/* Selects all a tags of .social-media-links */
+.social-media-links a {
+    text-decoration: none;
+    color: #050A30;
+}
+
+/* Selects all icons (as images) and add spacing between it. */
+.social-media-links img {
+    cursor: pointer;
+    margin-left: 0.3rem;
+    margin-right: 0.3rem;
+    width: 2rem;
+}
+
+/* Removes margin-left from only the first first icon (github) to vertically align social
+media icon with rest of the content. */
+.social-media-links i:first-child {
+    margin-left: 0px;
+}
+
+/* --MEDIA QUERIES-- */
+/* SMARTPHONES */
+@media all and (min-width: 320px) {
+    .social-media-links {
+        text-align: center;
+        align-items: center;
+    }
+}
+
+/* TABLETS */
+@media all and (min-width: 768px) {
+    .social-media-links {
+        text-align: left;
+        align-items: start;
+    }
+}

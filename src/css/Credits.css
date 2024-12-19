@@ -1,0 +1,31 @@
+/* || PARAGRAPH ||
+Styling for Paragraph headings and text */
+.outline {
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+
+.outline h2 {
+    margin-top: 2rem;
+}
+
+.outline p {
+    line-height: 1.5;
+    margin-bottom: 0.5rem;
+}
+
+/* Targets all elements with <code>; Used for visualizing code text */
+code {
+    font-size: 0.8rem;
+    background-color: #050A30;
+    color: #fff;
+    padding: 5px
+}
+
+.html-tag {
+    color: #69ef69;
+}
+
+.css-tag {
+    color: #98d6ff;
+}

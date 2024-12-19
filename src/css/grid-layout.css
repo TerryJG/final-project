@@ -1,0 +1,108 @@
+/* || GRID ||
+Main container holding landing page content. 
+*/
+.grid {
+    padding: 1.5rem;
+    margin-left: 1.5rem;
+    column-count: 4;
+    column-gap: 1.5rem;
+}
+
+/* Targets all images within the image-item */
+.image-item img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 1.5rem;
+}
+
+/* Targets all iframe (embedded YouTube videos) within the video-item */
+.video-item iframe {
+    width: 100%;
+    height: 200px;
+}
+
+/* --MEDIA QUERIES-- */
+/* If user zooms in using (Ctrl +) to the max, this rule prevents the site's style from breaking */
+@media all and (min-width: 1px) {
+    .grid {
+        margin-left: 0px;
+        column-count: 1;
+    }
+}
+
+/* SMARTPHONES */
+@media all and (min-width: 320px) {
+    .grid {
+        margin-left: 0px;
+        column-count: 1;
+    }
+}
+
+/* TABLETS */
+@media all and (min-width: 768px) {
+    .grid {
+        margin-left: 0px;
+        column-count: 2;
+    }
+}
+
+/* LAPTOPS */
+@media all and (min-width: 1024px) {
+    .grid {
+        margin-left: 1.5rem;
+        column-count: 3;
+    }
+}
+
+/* DESKTOP MONITORS */
+@media all and (min-width: 1440px) {
+    .grid {
+        column-count: 4;
+    }
+}
+
+
+
+/* || MODULAR CLASS COMPONENTS ||
+Can be applied to any element, and updated easily. */
+.rounded {
+    /* All elements with this class will have rounded edges */
+    border-radius: 0.5rem;
+}
+
+.flyer {
+    aspect-ratio: 9/16;
+}
+
+.video-item {
+    position: relative;
+    aspect-ratio: 16/9;
+    width: 100%;
+    overflow: hidden;
+    margin-bottom: 1.5rem;
+}
+
+/* Targets all .icon classes within both .image-item & .video-item. This scope prevents
+these rules from applying to all .icon items on the page */
+.image-item .icon, .video-item .icon {
+    position: absolute;
+    color: #fff;
+    background-color: rgba(5, 10, 48, 0.7);
+    padding: 0.5rem;
+    border-radius: 0px 0px 15px 0px;
+    z-index: 4; /* Z-index: Layers elements on top of each other, with higher numbers taking priority */
+}
+.image-item .icon {
+    width: 3rem;
+}
+.video-item .icon {
+    width: 2.5rem;
+}
+
+.visible {
+    visibility: visible;
+}
+
+.hidden {
+    visibility: hidden;
+}

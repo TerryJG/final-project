@@ -1,0 +1,16 @@
+/* || PAGE TITLE & NAVBAR ||
+Styling for page title & navbar buttons */
+.page-title {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 1rem;
+}
+
+.page-title nav {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 1rem;
+    justify-content: center;
+}
